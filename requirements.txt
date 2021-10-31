@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+numpy
+requests
+imageio
+imread-from-url
+tensorflow
+onnx
