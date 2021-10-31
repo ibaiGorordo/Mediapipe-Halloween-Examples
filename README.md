@@ -15,11 +15,25 @@ Most of the models were taken from Mediapipe: https://google.github.io/mediapipe
 
 # Examples
 
+ * **Skeleton Pose**:
+
+  ![Mediapipe Skeleton Pose](https://github.com/ibaiGorordo/Mediapipe-Halloween-Examples/blob/main/doc/img/skeleton.gif)
+ ```
+ python webcamSkeletonPose.py
+ ```
+
  * **Halloween background**:
 
   ![Mediapipe Halloween background](https://github.com/ibaiGorordo/Mediapipe-Halloween-Examples/blob/main/doc/img/halloween_background.gif)
  ```
  python webcamHalloweenBackground.py
+ ```
+
+ * **Exorcist Face Mesh**:
+
+  ![Mediapipe Exorcist Face Mesh](https://github.com/ibaiGorordo/Mediapipe-Halloween-Examples/blob/main/doc/img/exorcist.gif)
+ ```
+ python webcamFaceMeshExorcist.py
  ```
 
  * **Pumpkin face**:
@@ -36,19 +50,8 @@ Most of the models were taken from Mediapipe: https://google.github.io/mediapipe
  python webcamFireHair.py
  ```
  
- * **Exorcist Face Mesh**:
 
-  ![Mediapipe Exorcist Face Mesh](https://github.com/ibaiGorordo/Mediapipe-Halloween-Examples/blob/main/doc/img/exorcist.gif)
- ```
- python webcamFaceMeshExorcist.py
- ```
 
- * **Skeleton Pose**:
-
-  ![Mediapipe Skeleton Pose](https://github.com/ibaiGorordo/Mediapipe-Halloween-Examples/blob/main/doc/img/skeleton.gif)
- ```
- python webcamSkeletonPose.py
- ```
 
 # References:
 Check the header in each of the scripts for the references for each model.
